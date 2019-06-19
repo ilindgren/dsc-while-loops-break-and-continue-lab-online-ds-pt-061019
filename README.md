@@ -117,3 +117,4 @@ for number in list_of_numbers:
 ## Summary
 
 In this lab, we practiced using while loops, which continue executing their block of code until the given condition is no longer truthy. This is useful for instances where we do not have a collection or do not need a collection to solve our problem, especially when we would only like to stop the process according to a certain condition. We then practiced using control flow statements, `break` and `continue`, to selectively operate on elements, append them to new lists, or assign them to new variables.
+While Loops, Break and Continue - Lab
